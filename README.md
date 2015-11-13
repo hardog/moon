@@ -1,2 +1,2 @@
 # moon
-My learn notes
+My learning notes & Cool blog discovery
