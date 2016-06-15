@@ -1,6 +1,6 @@
 # moon
 My learning notes [https://github.com/foryuki/moon/issues](here)
-AND Cool blog discovery
+AND Cool blog discovery 个人日常积累的笔记，出处大多来自以下站点，如有侵权望告知:)
 
 ## 综合
   - [w3ctech](http://www.w3ctech.com/)
